@@ -7,7 +7,7 @@ WBlog
 
 The missing open source blog system on Ruby on Rails 7.x.
 
-testtesttesttestttesttesttesttestt
+testtesttesttest
 
 
 WBlog is open source blog which built for mobile first, it's licenced on MIT, use it for free!
