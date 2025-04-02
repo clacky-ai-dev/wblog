@@ -67,6 +67,8 @@ Rails.application.configure do
 
   # Allow all hosts in development
   config.hosts.clear
+  # Allow Clacky domains
+  config.hosts << /.*$/
 
   # Annotate rendered view with file names.
   # config.action_view.annotate_rendered_view_with_filenames = true
