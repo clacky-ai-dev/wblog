@@ -2,3 +2,5 @@
 run_commands: ['bin/dev']
 # Command to install or update dependencies, will execute each time a new thread created to ensure dependencies up-to-date
 dependency_command: bundle install && yarn install
+
+
