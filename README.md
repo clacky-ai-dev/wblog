@@ -5,15 +5,6 @@ WBlog
 The missing open source blog system on Ruby on Rails 7.x.
 New: WBlog is using Ruby on Rails 7.1 now.
 
-[中文说明文档](/README.zh-CN.md)
-
-Characteristic:
-
-* Modern clean reading feelings
-* Markdown support, give nice formatted articles
-* Mobile first, responsive page for iPhone, iPad, iMac.
-* Independent comment system, subscribe system, picture manage system
-
 A real example comes from my own blog( Chinese ): <https://yafeilee.com>
 
 Some [screenshots](#screenshots)
