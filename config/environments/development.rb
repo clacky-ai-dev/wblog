@@ -67,6 +67,9 @@ Rails.application.configure do
 
   # Allow all hosts in development
   config.hosts.clear
+  
+  # Allow any host to access the application in development environment
+  config.hosts << /.*/
 
   # Annotate rendered view with file names.
   # config.action_view.annotate_rendered_view_with_filenames = true
