@@ -5,8 +5,6 @@ WBlog
 [![Test Coverage](https://api.codeclimate.com/v1/badges/545d8372a9dda70b77fe/test_coverage)](https://codeclimate.com/github/windy/wblog/test_coverage)
 
 
-
-
 The missing open source blog system on Ruby on Rails 7.x.
 
 WBlog is open source blog which built for mobile first, it's licenced on MIT, use it for free!
